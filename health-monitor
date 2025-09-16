@@ -1,0 +1,1 @@
+create a shell script to check the health of cpu memory Ram for virtual machine.memory below 60percent consider better healthy, 60-80 is full consider as good healthy and above 80 percent full bad healthy or better to create new one. add the explain also
